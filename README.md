@@ -1,2 +1,2 @@
 # vhdl
-VHDL sample projects
+VHDL sample projects, see subdirectories for specifics
