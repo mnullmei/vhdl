@@ -1,4 +1,4 @@
-# Project Title
+# VHDL stopwatch
 
 A simple stopwatch in VHDL for the BASYS 3 educational FPGA board.
 
@@ -28,7 +28,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-Losely inspired by ideas from
+Loosely inspired by ideas from
 * [NANDLAND](https://nandland.com)
 * [FPGA4student](https://www.fpga4student.com)
 
